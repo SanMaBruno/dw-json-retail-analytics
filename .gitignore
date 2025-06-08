@@ -4,3 +4,7 @@ __pycache__/
 venv/
 __pycache__/
 *.db
+.venv/
+__pycache__/
+*.pyc
+data/raw/
