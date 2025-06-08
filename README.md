@@ -76,7 +76,7 @@ dw-json-retail-analytics/
 
 ---
 
-## 🧠 Buenas Prácticas
+## 🧠 Buenas Prácticas Basadas en el libro CleanCode
 
 - Separación clara de responsabilidades por carpeta
 - Uso de entorno virtual para aislar dependencias
@@ -85,7 +85,7 @@ dw-json-retail-analytics/
 
 ---
 
-## 📅 Próximos Pasos
+## 📅  Pasos realizando scrum
 
 1. **Sprint 1:** Diseño del modelo dimensional (Kimball)
 2. **Sprint 2:** Desarrollo de procesos ETL
